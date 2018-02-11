@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Yamas
+Type=Application
+Comment=Yamas
+Terminal=true
+Exec=bash -c "yamas;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=Yamas
+

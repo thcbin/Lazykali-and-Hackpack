@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=LRDoS
+Type=Application
+Comment=LRDoS by R4V3N747700
+Terminal=true
+Exec=sh -c "cd /opt/hackpack/ddos;./LRDoS.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=dos
+GenericName=LRDoS.sh
+

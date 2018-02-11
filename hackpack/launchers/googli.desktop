@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Googli
+Type=Application
+Comment=Googli by xd00sry
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./googli.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=scripts
+GenericName=Googli
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=wifijammer
+Type=Application
+Comment=wifijammer
+Terminal=true
+Exec=sh -c "cd /opt/hackpack/ddos;./wifijammer_0.1.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=dos;wireless
+GenericName=wifijammer
+

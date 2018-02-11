@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Wordlist Manipulator
+Type=Application
+Comment=Wordlist Manipulator
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./wlm;${SHELL:-bash}"
+Icon=elisa.png
+Categories=scripts
+GenericName=Wordlist Manipulator
+

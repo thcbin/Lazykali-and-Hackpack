@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Passive Fingerprint
+Type=Application
+Comment=Passive Fingerprint
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./70_Passive_Fingerprint_1.2.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Passive Fingerprint
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=ssl_phucker
+Type=Application
+Comment=ssl_phucker by n1tr0g3n
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./ssl_phucker.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=ssl_phucker
+

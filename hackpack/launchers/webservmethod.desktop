@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=webservmethod
+Type=Application
+Comment=webservmethod
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./webservmethod.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=webservmethod.sh
+

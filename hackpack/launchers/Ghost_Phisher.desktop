@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Ghost Phisher
+Version=1.0
+Exec=python /opt/Ghost-Phisher/ghost.py
+Comment=
+Icon=/opt/Ghost-Phisher/gui/images/icon.png
+Type=Application
+Terminal=false
+StartupNotify=true
+Encoding=UTF-8
+Categories=sniffspoof

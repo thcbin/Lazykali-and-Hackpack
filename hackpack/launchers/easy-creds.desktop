@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Easy-Creds
+Type=Application
+Comment=Easy-Creds
+Terminal=true
+Exec=sh -c "easy-creds;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=Easy-Creds
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=smskiller
+Type=Application
+Comment=smskiller
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./smskiller.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=scripts
+GenericName=smskiller
+

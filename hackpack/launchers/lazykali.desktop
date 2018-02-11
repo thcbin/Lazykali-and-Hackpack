@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=LazyKali
+Type=Application
+Comment=LazyKali
+Terminal=true
+Exec=lazykali
+Icon=elisa.png
+Categories=scripts
+GenericName=LazyKali

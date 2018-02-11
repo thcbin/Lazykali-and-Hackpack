@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=autosploit
+Type=Application
+Comment=autosploit
+Terminal=true
+Exec=sh -c "cd /opt/hackpack/SQL;perl autosploit.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=database
+GenericName=autosploit
+

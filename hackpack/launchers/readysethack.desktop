@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=readysethack
+Type=Application
+Comment=readysethack by TH3CR4CK3R
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./readysethack.py;${SHELL:-bash}"
+Icon=elisa.png
+Categories=wireless
+GenericName=readysethack
+

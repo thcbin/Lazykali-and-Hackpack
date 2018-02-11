@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Recon-ng
+Type=Application
+Comment=Recon-ng
+Terminal=true
+Exec=sh -c "cd /opt/recon-ng;./recon-ng.py;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Recon-ng

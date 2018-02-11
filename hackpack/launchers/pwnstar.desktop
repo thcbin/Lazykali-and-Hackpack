@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=PwnStar
+Type=Application
+Comment=PwnStar
+Terminal=true
+Exec=sh -c "cd /opt/PwnSTAR_0.9;./PwnSTAR_0.9;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=PwnStar
+

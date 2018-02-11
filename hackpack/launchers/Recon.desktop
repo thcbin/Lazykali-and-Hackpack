@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Recon
+Type=Application
+Comment=Recon
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./Recon.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Recon.sh
+

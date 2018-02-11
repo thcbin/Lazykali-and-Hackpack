@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Cred-Harvester
+Type=Application
+Comment=Cred-Harvester
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./40_Cred_Harvester_1.4.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=Cred-Harvester
+

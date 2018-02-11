@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Slowloris
+Type=Application
+Comment=Slowloris
+Terminal=true
+Exec=sh -c "cd /opt/hackpack/ddos; echo type ./slowloris + options to use or perldoc slowloris.pl for help ;${SHELL:-bash}"
+Icon=elisa.png
+Categories=dos
+GenericName=Slowloris
+

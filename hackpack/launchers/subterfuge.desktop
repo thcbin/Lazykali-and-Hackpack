@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Subterfuge
+Type=Application
+Comment=Subterfuge
+Terminal=true
+Exec=sh -c "subterfuge;${SHELL:-bash}"
+Icon=elisa.png
+Categories=sniffspoof
+GenericName=Subterfuge
+

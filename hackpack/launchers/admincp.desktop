@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Admin CP Finder
+Type=Application
+Comment=Admin CP Finder
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;perl admin.pl;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Admin CP Finder
+

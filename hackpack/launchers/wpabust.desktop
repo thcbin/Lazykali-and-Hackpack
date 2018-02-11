@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=WpaBust
+Type=Application
+Comment=WpaBust by D4rk50ld13r & gh0std0g
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./wpabust.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=wireless
+GenericName=WpaBust
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Find Hosts
+Type=Application
+Comment=Find Hosts
+Terminal=true
+Exec=sh -c "/opt/hackpack/Find_Hosts.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Find Hosts.sh
+

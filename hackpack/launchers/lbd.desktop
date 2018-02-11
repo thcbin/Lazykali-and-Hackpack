@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Load Balacing Detector
+Type=Application
+Comment=Load Balacing Detector
+Terminal=true
+Exec=sh -c "cd /opt/hackpack;./lbd.sh;${SHELL:-bash}"
+Icon=elisa.png
+Categories=recon
+GenericName=Load Balacing Detector
+
