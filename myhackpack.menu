@@ -1,0 +1,83 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+ "http://www.freedesktop.org/standards/menu-spec/1.0/menu.dtd">
+<!-- ######### Hackpack Menu By reaperz73 ########### -->
+<Menu>
+<Name>HackPack</Name>
+<!-- My HackPack submenu -->
+<Menu>
+	<Name>Hackpack</Name>
+	<Layout>
+		<Merge type="menus"/>
+		
+	</Layout>
+
+	<Directory>lzhackpack.directory</Directory>
+	
+ 	<Menu>
+ 		<Name>Database</Name>
+		<!-- our scripts submenu -->
+		<Directory>lzdatabase.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>database</Category>
+		</And></Include>
+	</Menu>	
+	
+	
+ 	<Menu>
+ 		<Name>DoS</Name>
+		<!-- our scripts submenu -->
+		<Directory>lzdos.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>dos</Category>
+		</And></Include>
+	</Menu>	
+
+ 	<Menu>
+ 		<Name>Scripts</Name>
+		<!-- our scripts submenu -->
+		<Directory>lzhackscripts.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>scripts</Category>
+		</And></Include>
+	</Menu>
+
+ 	<Menu>
+ 		<Name>Recon</Name>
+		<!-- our recon submenu -->
+		<Directory>lzrecon.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>recon</Category>
+		</And></Include>
+	</Menu>
+	
+ 	<Menu>
+ 		<Name>Sniffing/Spoofing</Name>
+		<!-- our recon submenu -->
+		<Directory>lzsniffspoof.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>sniffspoof</Category>
+		</And></Include>
+	</Menu>
+	
+ 	<Menu>
+ 		<Name>Wireless</Name>
+		<!-- our scripts submenu -->
+		<Directory>lzwireless.directory</Directory>
+		<Include><And>
+			<!-- this is the catagory to put in our 'program'.desktop launcher -->
+			<Category>wireless</Category>
+		</And></Include>
+	</Menu>
+
+	
+</Menu>
+</Menu>
+
+
+
+
