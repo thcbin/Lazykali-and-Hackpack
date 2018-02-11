@@ -10,4 +10,4 @@ None of this scripts have been altered in anyway to my knowledge.
 
 if you have any issues with this package please contact me.
 
-Installation video https://www.youtube.com/embed/00Vm2Du8P5I
+Installation video https://www.youtube.com/watch?v=00Vm2Du8P5I
