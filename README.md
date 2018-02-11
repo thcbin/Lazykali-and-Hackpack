@@ -10,4 +10,4 @@ None of this scripts have been altered in anyway to my knowledge.
 
 if you have any issues with this package please contact me.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/00Vm2Du8P5I?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Installation video https://www.youtube.com/embed/00Vm2Du8P5I
