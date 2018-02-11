@@ -6,8 +6,7 @@
 # LazyKali by Reaperz73
 # Just made this for when I feel lazy
 # Installs quite a few extras to a Fresh Kali:)
-# questions comments or request email me @:
-# reaperz73revived@gmail.com
+# questions comments or request email me
 #
 ##############################################
 clear
